@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../minha_lista.dart';
+import 'minha_lista_page.dart';
 
 class ListaPage extends StatelessWidget {
   @override
